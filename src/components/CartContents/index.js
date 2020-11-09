@@ -54,7 +54,7 @@ export function CartContents(){
  <span>${checkout?.totalPrice}</span>
                 </div>
             </CartFooter>  )}
-            {!!checkout.lineItems &&
+            {!!checkout?.lineItems &&
             <h4>
                 Your cart is empty
             </h4>
