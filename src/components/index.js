@@ -12,8 +12,6 @@ export * from './RemoveLineItem';
 export * from './HomepageCollectionGrid';
 export * from './FeaturedProducts'
 export * from './ProductsGrid';
-export * from './ProductTile'
-export * from './CollectionTile'
 export * from './Filters'
 export * from './Checkbox'
 export * from './Search'
